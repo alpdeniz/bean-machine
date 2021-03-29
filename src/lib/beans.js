@@ -24,7 +24,7 @@ const randomBeanDistribution = (numberOfBeans, numberOfBins, numberOfPegRows) =>
 
     let diceArray = [];
     for (let index=0; index < numberOfPegRows; index++)
-      diceArray.push(Math.random)
+      diceArray.push(Math.random())
 
     for (let j=0; j < numberOfPegRows; j++) {
       let inc = 0.5;
