@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "BeanApp",
+  "name": "Galton Board AKA Bean Machine Simulation",
   "icons": [
     {
       "src": "favicon.ico",
